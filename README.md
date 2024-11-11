@@ -1,7 +1,8 @@
 # Ex-11---ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC-
-##AIM:
+<h2>AIM:</h2>
 
 To implement the Elliptic curve Cryptography
+
 ##ALGORITHM:
 STEP-1:
 Alice and Bob agree on the elliptic curve equation, base point G, and prime modulus p.
